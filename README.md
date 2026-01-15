@@ -75,7 +75,6 @@ The dashboard leverages a variety of Power BI visuals, including:
 ---
 
 ## ⚠️ Data Disclaimer (Important)
-> **Fine Print:**  
 > The dataset used in this dashboard is based on **real-world logistics data**.  
 > However, **transporter names and numerical values have been intentionally modified** to protect confidentiality and sensitive business information.  
 > The dashboard is created strictly for **learning, demonstration, and portfolio purposes only**.
